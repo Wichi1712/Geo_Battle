@@ -1,0 +1,1 @@
+console.log("Buen trabajo tu archivo JS esta funcionando correctamente");
